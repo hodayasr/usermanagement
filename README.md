@@ -72,6 +72,3 @@ The server will start at:
 http://localhost:8080
 ```
 
-## Purpose
-
-This project was created as a learning exercise to demonstrate building a simple REST API using Spring Boot and connecting it to a relational database.
